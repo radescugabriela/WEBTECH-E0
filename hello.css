@@ -1,0 +1,45 @@
+img {
+	border-style: solid;
+	border-width: 4px;
+    border-color: orange;
+}
+
+#special-ol li:first-child{
+	background-color:lightblue;
+}
+
+#special-ol li:nth-child(2){
+	background-color:tomato;
+}
+
+#special-ol li:last-child{
+	background-color:lightpink;
+}
+
+#idputeri{
+    text-decoration: underline;
+}
+
+#special-ol li:first-letter
+{
+  font-weight: bold;
+  font-size: 150%
+}
+
+a:link{
+	color:blue;
+}
+
+a:visited {
+	color:purple;
+}
+
+
+a:active{
+	font-weight: bold;
+}
+
+.data {
+	font-family: segoe print;
+	text-align: justify;
+}
